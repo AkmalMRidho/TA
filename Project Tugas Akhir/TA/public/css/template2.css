@@ -1,0 +1,32 @@
+.container {
+    width: 70%;
+    margin: 0 auto;
+    font-family: 'Times New Roman', Times, serif;
+}
+header {
+    text-align: center;
+    border-bottom: 2px solid #000;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+}
+section {
+    margin-bottom: 20px;
+}
+h1 {
+    color: #333;
+}
+h2 {
+    color: #444;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+ul {
+    list-style-type: none;
+    padding: 0;
+}
+ul li {
+    background: #e0e0e0;
+    margin: 5px 0;
+    padding: 10px;
+    border-radius: 4px;
+}
