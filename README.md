@@ -18,6 +18,7 @@ Judul Tugas Akhir : Rancang Bangun Aplikasi Matriks Kompetensi Dosen Dan Tenaga 
      
    - username : fitri@example.com
    - password : password
+     
      dst..
 3. Untuk Role Tendik (Kajur, Koordinator Program Studi, Sek. Jurusan, Kalab, Teknisi, Staf Admin Prodi)
    - username : hasan@example.com
@@ -28,6 +29,7 @@ Judul Tugas Akhir : Rancang Bangun Aplikasi Matriks Kompetensi Dosen Dan Tenaga 
   
    - username : wiwit@example.com
    - password : wiwit123
+     
      dst...
 4. Untuk Role Penjaminan Mutu & Pengembangan Pembelajaran
    - username : akmal@example.com
