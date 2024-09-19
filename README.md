@@ -7,10 +7,9 @@ Judul Tugas Akhir : Rancang Bangun Aplikasi Matriks Kompetensi Dosen Dan Tenaga 
 
 ## Langkah-Langkah Penggunaan Aplikasi
 1. Buka dan jalankan terminal pada perangkat
+2. Kemudian Clone repository dengan mengikuti perintah dibawah ini
    ```
-3. Kemudian Clone repository dengan mengikuti perintah dibawah ini
-   ```
-   git clone -b CC https://github.com/ykbintang/Envy-Bangkit2023.git
+   git clone -b CC https://github.com/AkmalMRidho/TA.git
    ```
 
 ## Username & Password untuk login
