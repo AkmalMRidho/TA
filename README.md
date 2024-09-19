@@ -6,7 +6,12 @@ Nim : 3202116099
 Judul Tugas Akhir : Rancang Bangun Aplikasi Matriks Kompetensi Dosen Dan Tenaga Kependidikan Pada Program Studi Teknik Informatika Politeknik Negeri Pontianak
 
 ## Langkah-Langkah Penggunaan Aplikasi
-1. lakukan
+1. Buka dan jalankan terminal pada perangkat
+   ```
+3. Kemudian Clone repository dengan mengikuti perintah dibawah ini
+   ```
+   git clone -b CC https://github.com/ykbintang/Envy-Bangkit2023.git
+   ```
 
 ## Username & Password untuk login
 1. Untuk Role Quality Assurance
