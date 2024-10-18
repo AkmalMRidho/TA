@@ -25,7 +25,7 @@ Judul Tugas Akhir : Rancang Bangun Aplikasi Matriks Kompetensi Dosen Dan Tenaga 
 
 ## Username & Password untuk login
 1. Untuk Role Quality Assurance
-   - username : nenyexample.com
+   - username : neny@example.com
    - password : password
      
 2. Untuk Role Dosen
