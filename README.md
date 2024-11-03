@@ -9,7 +9,7 @@ Judul Tugas Akhir : Rancang Bangun Aplikasi Matriks Kompetensi Dosen Dan Tenaga 
 1. Buka dan jalankan terminal pada perangkat
 2. Kemudian Clone repository dengan mengikuti perintah dibawah ini
    ```
-   git clone -b CC https://github.com/AkmalMRidho/TA.git
+   git clone -b https://github.com/AkmalMRidho/TA.git
    ```
 3. Masuk ke direktori project dengan perintah
    ```
